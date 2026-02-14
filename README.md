@@ -5,7 +5,7 @@
 
 This project analyzes bike-share usage patterns to understand behavioral differences between member and casual riders, with a focus on identifying opportunities for membership growth.
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Dashboard screenshot.png)
 
 ## Dataset
 
